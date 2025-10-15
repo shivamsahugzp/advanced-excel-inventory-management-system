@@ -2,7 +2,6 @@
 
 [![Excel](https://img.shields.io/badge/Excel-Advanced%20Automation-orange.svg)](https://microsoft.com/excel)
 [![VBA](https://img.shields.io/badge/VBA-Automation-blue.svg)](https://docs.microsoft.com/en-us/office/vba/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## 📋 Overview
 
@@ -31,6 +30,12 @@ An Excel-based inventory management solution with VBA automation for stock track
 - **Charts & PivotTables**: Data visualization
 - **Macros**: Automated workflows
 - **Formulas**: Advanced Excel formulas and functions
+
+## 🎯 Live Demo
+
+**🌐 [View Live Demo](https://shivamsahugzp.github.io/portfolio-projects-demo-hub/#inventory-demo)** | **📁 [Source Code](https://github.com/shivamsahugzp/advanced-excel-inventory-management-system)**
+
+Interactive demonstration showcasing Excel automation, VBA features, and inventory management capabilities.
 
 ## 🚀 Quick Start
 
@@ -530,7 +535,6 @@ End Sub
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
